@@ -16,7 +16,7 @@ namespace C19QuizForKids.Application
             RankingRepository rankingRepository = new RankingRepository(_context);
             return rankingRepository.Salvar(ranking);
             
-
+            //teste 
         }
     }
 }
